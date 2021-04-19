@@ -45,8 +45,8 @@ plugins:
 
 author:
   name   : "Mohsen Rezania"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Software Engineer / Android Developer"
+  avatar : "/assets/images/bio-photo.png"
+  bio    : "Software Engineer && Android Developer"
   links:
     - label: "Stack Overflow"
       icon: "fas fa-fw fa-link"
