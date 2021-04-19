@@ -5,15 +5,16 @@ title: "My CV"
 
 ### Experiences
 
-- AmanatPay Inc. - **2020 to 2021**
+- **AmanatPay Inc.** - 2020 to *current*
   - Developing fully secured & highly trusted applications with the Material Design on Android platform using SamanBank (.ir) & FinTech APIs.
-     - Technologies and libraries :
-       - MVVM - Android Room - Live Data - Coroutines - View Model - Calligraphy - Navigation Component - Glide - MPChart - GSON - RESTAPI 
+  
+      - Technologies and libraries :
+         - MVVM - Android Room - Live Data - Coroutines - View Model - Calligraphy - Navigation Component - Glide - MPChart - GSON - RESTAPI 
   	
-- AFTA (gov.ir) - **2017 to 2017**
-  - Penetration Tester, Android, Linux based servers, Windows servers, Web apps.
+- **AFTA (gov.ir)** - 2017 to 2017
+  - Penetration Tester, Android, Linux based servers, Windows servers, Web applications.
 
-- Iranian Youth Industry, Mine and trade House - **2015 to 2016**
+- **Iranian Youth Industry, Mine and trade House** - 2015 to 2016
   - Android, ICDL, HTML, CSS teacher.
 
 ### Projects
