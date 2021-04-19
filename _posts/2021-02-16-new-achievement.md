@@ -8,8 +8,6 @@ tags:
   - Mobile
 ---
 
-### Stack Overflow
-
 First of all, I am really glad to share this moment with all of you, whether you're a friend or a visitor. Actually, I've been active on [Stack Overflow]() website since 7-8 years ago
 and I guess [this is](https://stackoverflow.com/users/4409113/%ca%8d%d1%b3%d1%92%e0%aa%bd%e0%ab%af%e0%b8%97) my last merged account which the registered date is about 6 years by the time of writing this
 article. Although I wasn't really active for some months of some specific years, I believe that I've done my part and I'll try to reach the "Trusted user" after some time for sure.

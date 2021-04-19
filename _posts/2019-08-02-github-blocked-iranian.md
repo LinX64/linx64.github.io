@@ -2,11 +2,11 @@
 title: Github Blocked-Restricted Iranian Developers Accounts
 last_modified_at: 2019-08-02
 categories: 
-     - Blog
+  - Blog
 tags: 
-	 - github
-	 - iran
-	 - sactions
+  - github
+  - iran
+  - sactions
 ---
 
 Lately, I was checking my profile and I suddenly saw a message from Github with below content:
