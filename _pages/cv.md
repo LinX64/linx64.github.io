@@ -9,7 +9,7 @@ title: "My CV"
   - Developing fully secured & highly trusted applications with the Material Design on Android platform using SamanBank (.ir) & FinTech APIs.
   
       - Technologies and libraries :
-         - • MVVM • Android Room • Live Data • Coroutines • View Model • Calligraphy • Navigation Component • Glide • MPChart • GSON • RESTAPI 
+         - MVVM • Android Room • Live Data • Coroutines • View Model • Calligraphy • Navigation Component • Glide • MPChart • GSON • RESTAPI 
     
 - **AFTA (gov.ir)** - 2017 to 2017
   - Penetration Tester, Android, Linux based servers, Windows servers, Web applications.
