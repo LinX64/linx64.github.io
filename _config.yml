@@ -51,15 +51,16 @@ author:
     - label: "Stack Overflow"
       icon: "fas fa-fw fa-link"
       url: "https://stackoverflow.com/users/4409113/%ca%8d%d1%b3%d1%92%e0%aa%bd%e0%ab%af%e0%b8%97?tab=profile"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/mohsenrzna/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mohsen_rzna"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/LinX64"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin-in"
-      url: "https://www.linkedin.com/in/mohsenrzna/"
+
 
 footer:
   links:
