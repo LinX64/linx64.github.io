@@ -11,7 +11,7 @@ title: "My CV"
       - Technologies and libraries :
          - MVVM • Android Room • Live Data • Coroutines • View Model • Calligraphy • Navigation Component • Glide • MPChart • GSON • RESTAPI 
     
-- **AFTA (gov.ir)** - 2017 to 2017
+- **AFTA** - 2017 to 2017
   - Penetration Tester, Android, Linux based servers, Windows servers, Web applications.
 
 - **Iranian Youth Industry, Mine and trade House** - 2015 to 2016
