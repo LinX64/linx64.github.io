@@ -1,17 +1,18 @@
-title: Klise Theme
+title: Mohsen's Website | Welcome
 description: >-
   This is going to be my personal website. I would like to write about my experiences and my thoughts here.
 lang: en-US
 timezone: Europe/Warsaw
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo: https://github.com/LinX64/linx64.github.io
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Mohsen Rezania
+  name: Mohsen
   bio: >-
-    A Software Engineer who is passionate about Android, Kotlin, Jetpack Compose, and everything related to mobile development.
+    A Software Engineer who is passionate about Android, Kotlin, Jetpack Compose,
+    and everything related to mobile development.
   username: Mohsen
   github: LinX64
   twitter: mohsen_rzna
@@ -57,7 +58,7 @@ jekyll_compose:
     description:
 
 # Homepage limit posts
-number_of_posts: 5
+number_of_posts: 4
 
 # Build settings
 # theme: klise

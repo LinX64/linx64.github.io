@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to my website!"
-date: 2023-12-29 13:33:00
+date: 2023-12-29 13:33:00 +0200
 categories: jekyll update
 usemathjax: true
 ---
