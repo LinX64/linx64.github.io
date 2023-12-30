@@ -6,7 +6,7 @@ excerpt: "About me"
 comments: false
 ---
 
-I am working mostly as an Android Engineer, with a focus on Kotlin, Jetpack Compose, Kotlin Coroutines and all the new
+I am working mostly as an Android Engineer, with a focus on Kotlin, Jetpack Compose, Kotlin Coroutines, and all the new
 technologies. I was used to work as a Penetration Tester, means I possess a good knowledge of security on Linux-based
 servers, Android, and web applications.
 
