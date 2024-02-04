@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My new idea for helping job seekers"
-date: 2023-02-04 13:33:00 +0200
+date: 2024-02-04 13:33:00 +0200
 usemathjax: true
 ---
 
