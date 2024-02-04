@@ -24,7 +24,7 @@ matching process. The AI would match the jobseeker with the job, and once there 
 with Email or built-in notification system on mobile.
 
 There are platforms where they have their own AI matching process, but they are not enough. They are limited
-to their own jobs and postings, and they have few jobs or up-to-date jobs.
+to their own jobs and postings, and they have few jobs or don't have up-to-date jobs.
 
 ## Conclusion
 
