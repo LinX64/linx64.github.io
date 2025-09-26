@@ -8,8 +8,6 @@ comments: false
 
 I work mostly as an Android Engineer, with a focus on Kotlin, Jetpack Compose, Kotlin Coroutines, and all the new
 technologies.
-I also like to give talks and write articles about my experiences, and I am a
-big fan of open source.
 
 # Expertise
 
@@ -19,5 +17,4 @@ appreciation for modern development practices and tooling, making extensive use 
 GitHub Actions, Firebase, and Compose multiplatform in my daily work.
 
 Prior to my journey in mobile development, I explored the world of Cyber security as a penetration tester and shared my
-knowledge as a lecturer. I am also the Founder and CEO of Rapid Brain, a Polish software development company, where
-we're driven by a shared commitment to innovation and excellence.
+knowledge as a lecturer.
